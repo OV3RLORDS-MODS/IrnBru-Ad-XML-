@@ -1,10 +1,8 @@
+![Screenshot]([https://i.ibb.co/NF84xQF/Screenshot-2024-03-21-021511.png](https://i.ibb.co/VCt0XhD/Screenshot-2024-03-22-002337.png))
+
 # IrnBru-Ad-XML
-Simple texture changed. 
 
-
-How To Install?
-
-Just simply drag and drop into your resources folder and add the mod to your server.cfg
+Changed the banner near Legion / around the coner from the police station. 
 
 Support?
 
